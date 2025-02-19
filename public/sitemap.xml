@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://theholidays.satrex.jp/pages/history/</loc>
+    <loc>http://localhost:1313/pages/history/</loc>
     <lastmod>2025-02-18T19:14:02+09:00</lastmod>
   </url><url>
-    <loc>https://theholidays.satrex.jp/pages/</loc>
+    <loc>http://localhost:1313/pages/</loc>
     <lastmod>2025-02-18T19:14:02+09:00</lastmod>
   </url><url>
-    <loc>https://theholidays.satrex.jp/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-02-18T19:14:02+09:00</lastmod>
   </url><url>
-    <loc>https://theholidays.satrex.jp/pages/members/</loc>
+    <loc>http://localhost:1313/pages/members/</loc>
     <lastmod>2025-02-18T19:13:50+09:00</lastmod>
   </url><url>
-    <loc>https://theholidays.satrex.jp/pages/discography/</loc>
+    <loc>http://localhost:1313/pages/discography/</loc>
     <lastmod>2025-02-18T19:07:33+09:00</lastmod>
   </url><url>
-    <loc>https://theholidays.satrex.jp/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2025-02-17T20:37:06+09:00</lastmod>
   </url><url>
-    <loc>https://theholidays.satrex.jp/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://theholidays.satrex.jp/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
