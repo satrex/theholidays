@@ -1,0 +1,21 @@
+baseURL = 'https://theholidays.satrex.jp/'
+languageCode = 'ja-jp'
+title = 'the holidays'
+theme = "ananke"
+
+[[menu.main]]
+    name = "members"
+    pre = "<i class='fa fa-road'></i>"
+    weight = -200
+    url = "/pages/members"
+[[menu.main]]
+    name = "discography"
+    pre = "<i class='fa fa-road'></i>"
+    weight = -100
+    url = "/pages/discography"
+[[menu.main]]
+    name = "history"
+    pre = "<i class='fa fa-heart'></i>"
+    weight = -110
+    identifier = "about"
+    url = "/pages/history"
