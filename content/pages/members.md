@@ -1,9 +1,8 @@
 +++
 date = '2025-02-18T19:13:50+09:00'
 draft = false
-title = 'Members'
+title = 'メンバー'
 +++
-
 
 ### ishidama
 [[画像]]  

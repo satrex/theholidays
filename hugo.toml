@@ -1,4 +1,4 @@
-baseURL = 'https://theholidays.satrex.jp/'
+baseURL = 'https://theholidays.jp/'
 languageCode = 'ja-jp'
 title = 'the holidays'
 theme = "ananke"

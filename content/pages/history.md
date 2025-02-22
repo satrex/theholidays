@@ -1,10 +1,8 @@
 +++
 date = '2025-02-18T19:14:02+09:00'
 draft = false
-title = 'History'
+title = 'ここに至るまで'
 +++
-
-# History
 
 ### バンドができるまで
 

@@ -1,10 +1,8 @@
 +++
 date = '2025-02-18T19:07:33+09:00'
 draft = false
-title = 'Discography'
+title = '作ったもの'
 +++
-
-## Discography
 
 ### CD 
 
